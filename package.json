@@ -1,7 +1,7 @@
 {
   "name": "friendfinder",
   "version": "1.0.0",
-  "description": "",
+  "description": "It will be on heroku once I found out how to push there! :)",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Philmnap/FriendFinder/issues"
   },
-  "homepage": "https://github.com/Philmnap/FriendFinder#readme"
+  "homepage": "https://github.com/Philmnap/FriendFinder#readme",
+  "dependencies": {
+    "bootstrap": "*"
+  }
 }
