@@ -18,6 +18,10 @@
   },
   "homepage": "https://github.com/Philmnap/FriendFinder#readme",
   "dependencies": {
-    "bootstrap": "*"
+    "bootstrap": "*",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.2"
   }
 }
